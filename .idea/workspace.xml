@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SofiJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/first.java" afterDir="false" />
+    <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/ArifmeticOperations/EveryDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArifmeticOperations/NumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/DynamicInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/FirstProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/SecondProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/AreaAndPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/ArifmOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/NextAndPrevious.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/NextEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/ScannerInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/Sdffd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/Trest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/rffr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/first.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +55,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/strings" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.SumOfDigits">
+    <configuration name="AreaAndPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.AreaAndPerimeter" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.LastDigit" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextAndPrevious" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.NextAndPrevious" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.NextEven" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.SumOfDigits" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.LastDigit" />
+        <item itemvalue="Application.NextEven" />
+        <item itemvalue="Application.AreaAndPerimeter" />
+        <item itemvalue="Application.NextAndPrevious" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,6 +155,39 @@
       <option name="presentableId" value="Default" />
       <updated>1674491934649</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1676231628636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676231628636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1676231693459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676231693459</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1676232506296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676232506296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1676232632275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676232632275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
