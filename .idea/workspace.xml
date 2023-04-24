@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ArifmeticOperations/EveryDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArifmeticOperations/NumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books/CodeBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books/DynamicInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books/FirstProg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books/SecondProg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/AreaAndPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/ArifmOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/NextAndPrevious.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/NextEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/arifoperat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/Sdffd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/Trest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sofi/test1/rffr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/first.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/AreaAndPerimeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/ArifmOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/LastDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/NextAndPrevious.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/NextEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/ScannerInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/multiplication.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +60,35 @@
       <recent name="$PROJECT_DIR$/strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="AreaAndPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.AreaAndPerimeter" />
+  <component name="RunManager" selected="Application.prac">
+    <configuration name="NumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArifmeticOperations.NumberOfDigits" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArifmeticOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.Q10" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VALLIETWO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.VALLIETWO" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.LastDigit" />
+    <configuration name="prac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.prac" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.*" />
+          <option name="PATTERN" value="other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,38 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextAndPrevious" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.NextAndPrevious" />
+    <configuration name="practiceInkrDicr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.practiceInkrDicr" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stepik.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.NextEven" />
-      <module name="SofiJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepik.SumOfDigits" />
-      <module name="SofiJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stepik.*" />
+          <option name="PATTERN" value="other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.LastDigit" />
-        <item itemvalue="Application.NextEven" />
-        <item itemvalue="Application.AreaAndPerimeter" />
-        <item itemvalue="Application.NextAndPrevious" />
+        <item itemvalue="Application.prac" />
+        <item itemvalue="Application.practiceInkrDicr" />
+        <item itemvalue="Application.Q10" />
+        <item itemvalue="Application.NumberOfDigits" />
+        <item itemvalue="Application.VALLIETWO" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676232632275</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1677614706978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677614706978</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
