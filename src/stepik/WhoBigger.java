@@ -1,6 +1,6 @@
 package stepik;
 import java.util.Scanner;
-public class Who_bigger {
+public class WhoBigger {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int first=sc.nextInt();

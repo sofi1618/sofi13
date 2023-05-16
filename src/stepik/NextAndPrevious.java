@@ -1,6 +1,6 @@
 package stepik;
 import java.util.Scanner;
-public class Next_and_Previous {
+public class NextAndPrevious {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number= sc.nextInt();

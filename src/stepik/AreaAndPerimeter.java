@@ -1,6 +1,6 @@
 package stepik;
 import java.util.Scanner;
-public class area_and_perimeter {
+public class AreaAndPerimeter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int length=sc.nextInt();

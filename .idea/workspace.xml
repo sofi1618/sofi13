@@ -5,32 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ArifmOperations/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/Fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/Fourth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/seventh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/sixth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/Next_and_Previous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/Sum_of_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/Who_bigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/area_and_perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/last_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stepik/next_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/eighth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork1/ninth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/ComparisonStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Comparisontwostr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/CounNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/CountNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/CountNum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasyFifth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasyFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasyFourth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasySecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasySixth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EasyThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/EvenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Hipotenusa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/MaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/MinMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/ReadingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/RomanNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/SecondMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/SumSq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/increase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/leapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stepik/suman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArifmeticOperations/EveryDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArifmeticOperations/NumberOfDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/CodeBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/DynamicInitialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/FirstProg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/SecondProg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Q10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/prac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/arifoperat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArifmOperations/arifmOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/Next_and_Previous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/NextAndPrevious.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/Sum_of_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/Who_bigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/WhoBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/area_and_perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/AreaAndPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/last_digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/lastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik/next_even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stepik/NextEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +60,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e895d07a-4e16-45ab-b6d9-1906d12c7a33" />
+        <option name="url" value="https://github.com/sofi1618/sofi13.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,13 +100,13 @@
       <recent name="$PROJECT_DIR$/strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.seventh">
-    <configuration name="Fifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWork1.Fifth" />
+  <component name="RunManager" selected="Application.EasyFifth">
+    <configuration name="CounNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.CounNum" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWork1.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWork1.Fourth" />
+    <configuration name="EasyFifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.EasyFifth" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWork1.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWork1.Second" />
+    <configuration name="EasyFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.EasyFourth" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWork1.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWork1.Third" />
+    <configuration name="EasyThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.EasyThird" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWork1.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seventh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWork1.seventh" />
+    <configuration name="SecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stepik.SecondMax" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWork1.*" />
+          <option name="PATTERN" value="stepik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.seventh" />
-        <item itemvalue="Application.Fifth" />
-        <item itemvalue="Application.Fourth" />
-        <item itemvalue="Application.Third" />
-        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.EasyFifth" />
+        <item itemvalue="Application.EasyFourth" />
+        <item itemvalue="Application.EasyThird" />
+        <item itemvalue="Application.SecondMax" />
+        <item itemvalue="Application.CounNum" />
       </list>
     </recent_temporary>
   </component>
