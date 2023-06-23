@@ -5,50 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/Repeat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/Repeat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/CountNumDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/FactorialOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/MultEveryDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/SumOfSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Sumanum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/TableMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/CountElemMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Kindergarten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MINandMAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SumElemEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SumElemReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/UniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary/AnotherBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary/BinaryNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/AgainSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/Dividers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/Dollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/MiddleAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/MultLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/count/ReverseNumOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Correct_Incorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/FindCub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/FindCub2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/MultParseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/RepeatFlag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArifmOperations/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArifmOperations/arifmOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/arifmOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/AreaAndPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/AreaAndPerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/ComparisonStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/ComparisonStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Comparisontwostr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/Comparisontwostr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/CounNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/count/CounNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/CountNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/count/CountNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/CountNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/count/CountNum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Cows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/Cows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Drawing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasyFifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EasyFifth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasyFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EasyFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasyFourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EasyFourth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasySecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EasySecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasySixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EasySixth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EasyThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ifc/EasyThird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/EvenNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/EvenNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Hipotenusa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/Hipotenusa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/Maximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/MinMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/MinMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/NextAndPrevious.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/NextAndPrevious.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/NextEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/NextEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/Path.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/ReadingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/ReadingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/RomanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/RomanNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/SecondMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/SecondMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/SumSq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/SumSq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ifc/Temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/WhoBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ternaryOperation/WhoBigger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/increase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/increase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/arifmOperations/lastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/leapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/ifc/leapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/suma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stepik/suman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/cycles/whilec/suman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Fifth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Fourth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/eighth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/eighth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/ninth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/ninth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/seventh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/seventh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/sixth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/Cows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Cows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SumDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/AreaAndPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/AreaAndPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Hipotenusa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Hipotenusa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/MaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Maximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/MinMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/MinMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/NextAndPrevious.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/NextAndPrevious.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/NextEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/NextEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/arifmOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/arifmOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/lastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/increase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/increase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +67,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -101,16 +111,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/string" />
       <recent name="$PROJECT_DIR$/strings" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SumDigits">
-    <configuration name="EasyFifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.cycles.whilec.EasyFifth" />
+    <configuration name="Correct_Incorrect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Correct_Incorrect" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.count.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,38 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EasyFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.cycles.whilec.EasyFourth" />
+    <configuration name="Kindergarten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Kindergarten" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.count.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EasyThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.cycles.ifc.EasyThird" />
-      <module name="SofiJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.count.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.cycles.whilec.SecondMax" />
-      <module name="SofiJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.count.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +143,37 @@
       </method>
     </configuration>
     <configuration name="SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.SumDigits" />
+      <option name="MAIN_CLASS_NAME" value="array.SumDigits" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="arifmOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumElemReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SumElemReverse" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.UniqueElements" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,10 +184,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SumDigits" />
-        <item itemvalue="Application.EasyFifth" />
-        <item itemvalue="Application.EasyFourth" />
-        <item itemvalue="Application.EasyThird" />
-        <item itemvalue="Application.SecondMax" />
+        <item itemvalue="Application.UniqueElements" />
+        <item itemvalue="Application.Kindergarten" />
+        <item itemvalue="Application.Correct_Incorrect" />
+        <item itemvalue="Application.SumElemReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684251092922</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1685970738352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685970738352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
