@@ -5,59 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/CountNumDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/FactorialOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/MultEveryDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/SumOfSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Sumanum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arifmOperations/TableMult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/CountElemMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Kindergarten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MINandMAX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SumElemEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SumElemReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/UniqueElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary/AnotherBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary/BinaryNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/AgainSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/Dividers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/Dollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/MiddleAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/MultLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/count/ReverseNumOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/Correct_Incorrect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/FindCub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/FindCub2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/MultParseInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/RepeatFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitsWithFirstAnsLastChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstOrLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiddleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Fifth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Fourth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Nineght.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Nineth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Seventh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Sixth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeWork/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumFirstChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/ArifmOperationsStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/CountOper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/HowCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Olimpiada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arifmOperations/TriangleSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/AverageMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/DoubleTwoX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/FirstIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MinElDoubleAr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ModulMaxAr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MultArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/NegativeElSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SumMinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schoolBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/CountWordsSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/EasyRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/FirstLastEl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Sentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/TwoInFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Fifth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Fourth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/Third.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/eighth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/eighth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/ninth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/ninth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/seventh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/seventh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeWork1/sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/PracticeWork1/sixth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Cows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Cows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/AreaAndPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/AreaAndPerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Hipotenusa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Hipotenusa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Maximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/MinMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/MinMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/NextAndPrevious.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/NextAndPrevious.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/NextEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/NextEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/Path.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/arifmOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/arifmOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/arifmOperations/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/lastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/increase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/increase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arifmOperations/CountNumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arifmOperations/CountNumDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,13 +102,13 @@
       <recent name="$PROJECT_DIR$/strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumDigits">
-    <configuration name="Correct_Incorrect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Correct_Incorrect" />
+  <component name="RunManager" selected="Application.Nineth">
+    <configuration name="Fifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeWork.Fifth" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="PracticeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kindergarten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Kindergarten" />
+    <configuration name="Nineth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeWork.Nineth" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="PracticeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SumDigits" />
+    <configuration name="Seventh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeWork.Seventh" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arifmOperations.*" />
+          <option name="PATTERN" value="PracticeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumElemReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SumElemReverse" />
+    <configuration name="Sixth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeWork.Sixth" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="PracticeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.UniqueElements" />
+    <configuration name="eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeWork.eight" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="PracticeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumDigits" />
-        <item itemvalue="Application.UniqueElements" />
-        <item itemvalue="Application.Kindergarten" />
-        <item itemvalue="Application.Correct_Incorrect" />
-        <item itemvalue="Application.SumElemReverse" />
+        <item itemvalue="Application.Nineth" />
+        <item itemvalue="Application.eight" />
+        <item itemvalue="Application.Seventh" />
+        <item itemvalue="Application.Sixth" />
+        <item itemvalue="Application.Fifth" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1685970738352</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1">
+      <option name="closed" value="true" />
+      <created>1687529424700</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687529424700</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
