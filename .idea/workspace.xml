@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Class/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/CarManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/PassengerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/simpleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/AverageMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/AverageMiddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/CountElemMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/CountElemMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/DoubleTwoX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/DoubleTwoX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/FirstIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/FirstIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Kindergarten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/Kindergarten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/MINandMAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MINandMAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/MinElDoubleAr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MinElDoubleAr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ModulMaxAr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/ModulMaxAr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/MultArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MultArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/NegativeElSuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/NegativeElSuma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SumElemEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumElemEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SumElemReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumElemReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SumMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumMinAndMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/UniqueElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/UniqueElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/increase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/increase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary/AnotherBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/binary/AnotherBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary/BinaryNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/binary/BinaryNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/Correct_Incorrect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Correct_Incorrect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/CountWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/CountWordsSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/CountWordsSentences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/DigitsWithFirstAnsLastChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/DigitsWithFirstAnsLastChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/EasyRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/EasyRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/FindCub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FindCub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/FindCub2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FindCub2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/FirstLastEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FirstLastEl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/FirstOrLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FirstOrLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/MultParseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/MultParseInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/PracticeCodeBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/PracticeCodeBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/RepeatFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/RepeatFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/Sentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Sentences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/SumFirstChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/SumFirstChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/TwoInFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/TwoInFour.java" afterDir="false" />
-    </list>
+    <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689415218492</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1">
+      <option name="closed" value="true" />
+      <created>1696789257733</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789257733</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

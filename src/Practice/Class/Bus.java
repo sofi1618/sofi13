@@ -1,4 +1,4 @@
-package Class;
+package Practice.Class;
 
 public class Bus extends Car {
     public Bus(String name, int yearOfProduction, int price, int weight, Color color) {

@@ -1,4 +1,4 @@
-package Class;
+package Practice.Class;
 
 import java.util.Objects;
 

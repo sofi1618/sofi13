@@ -1,4 +1,4 @@
-package Class;
+package Practice.Class;
 
 public enum Color {
     BLACK("Black"),
