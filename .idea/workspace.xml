@@ -5,12 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Practice/MethodVoidPractice/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MethodVoidPractice/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MethodVoidPractice/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/CarManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/PassengerCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/simpleInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/AverageMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/AverageMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/CountElemMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/CountElemMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/DoubleTwoX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/DoubleTwoX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FirstIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/FirstIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Kindergarten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/Kindergarten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MINandMAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MINandMAX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MinElDoubleAr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MinElDoubleAr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ModulMaxAr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/ModulMaxAr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MultArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/MultArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/NegativeElSuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/NegativeElSuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumElemEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumElemEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumElemReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumElemReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/SumMinAndMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UniqueElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/UniqueElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/increase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/increase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/array/line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary/AnotherBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/binary/AnotherBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary/BinaryNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/binary/BinaryNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Correct_Incorrect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Correct_Incorrect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/CountWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/CountWordsSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/CountWordsSentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/DigitsWithFirstAnsLastChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/DigitsWithFirstAnsLastChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/EasyRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/EasyRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/FindCub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FindCub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/FindCub2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FindCub2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/FirstLastEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FirstLastEl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/FirstOrLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/FirstOrLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/MultParseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/MultParseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/PracticeCodeBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/PracticeCodeBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/RepeatFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/RepeatFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Sentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/Sentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/SumFirstChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/SumFirstChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/TwoInFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/string/TwoInFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +83,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2KjdSwLV9znc9e9M6XXVa1G0q3J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,16 +94,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/PracticeWork/PracticeWork2" />
@@ -69,26 +112,13 @@
       <recent name="$PROJECT_DIR$/strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FullInfoStudent">
-    <configuration name="BookFullInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.MethodVoidPractice.BookFullInfo" />
+  <component name="RunManager" selected="Application.CarManager">
+    <configuration name="CarManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class.CarManager" />
       <module name="SofiJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.MethodVoidPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FullInfoStudent (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.FullInfoStudent" />
-      <module name="SofiJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="simpleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class.simpleInheritance" />
+      <module name="SofiJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarManager" />
+        <item itemvalue="Application.simpleInheritance" />
         <item itemvalue="Application.FullInfoStudent" />
         <item itemvalue="Application.FullInfoStudent (3)" />
         <item itemvalue="Application.FullInfoStudent (2)" />
-        <item itemvalue="Application.FullInfoStudent (1)" />
-        <item itemvalue="Application.BookFullInfo" />
       </list>
     </recent_temporary>
   </component>
