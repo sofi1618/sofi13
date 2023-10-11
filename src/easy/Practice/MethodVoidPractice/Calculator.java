@@ -1,4 +1,4 @@
-package Practice.MethodVoidPractice;
+package easy.Practice.MethodVoidPractice;
 
 import java.util.Scanner;
 

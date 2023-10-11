@@ -1,4 +1,4 @@
-package PracticeWork;
+package easy;
 
 import java.util.Scanner;
 public class Cows {

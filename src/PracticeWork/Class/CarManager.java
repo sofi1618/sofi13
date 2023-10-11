@@ -1,4 +1,4 @@
-package Practice.Class;
+package PracticeWork.Class;
 
 public class CarManager {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Practice.Class;
+package PracticeWork.Class;
 
 public class PassengerCar extends Car {
     public PassengerCar(String name, int yearOfProduction, int price, int weight, Color color) {
