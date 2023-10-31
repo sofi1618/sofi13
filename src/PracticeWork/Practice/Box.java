@@ -1,4 +1,4 @@
-package easy.Practice;
+package PracticeWork.Practice;
 
 class Box {
     double width;

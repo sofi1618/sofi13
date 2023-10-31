@@ -1,4 +1,4 @@
-package easy.Practice;
+package PracticeWork.Practice;
 
 import java.util.Scanner;
 
