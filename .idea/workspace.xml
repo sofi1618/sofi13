@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad6df0a-0c4c-4846-842d-7fb9f6738639" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/easy/FirstLection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/MethodVoidPractice/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/MethodVoidPractice/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/MethodVoidPractice/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/MethodVoidPractice/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/MethodVoidPractice/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/MethodVoidPractice/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Practice/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeWork/Practice/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +29,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="c6a04a10-c915-42ed-9d99-d7f36e7eb91c" />
-        <option name="url" value="https://github.com/sofi1618/sofi13" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sofi1618/sofi13.git&quot;,
+    &quot;accountId&quot;: &quot;96a91e5c-2759-4acd-8513-e89a9a6d7780&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -59,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/PracticeWork/PracticeWork2" />
